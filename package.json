@@ -1,0 +1,15 @@
+{
+  "name": "kfgqpc-uthmanic-script-hafs-regular",
+  "version": "1.0.0",
+  "description": "Arabic fonts - KFGQPC Uthmanic Script HAFS Regular. Optimize import from node_modules for Project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Arabic",
+    "Fonts"
+  ],
+  "author": "",
+  "license": "ISC"
+}
